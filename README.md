@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Praveen Kumar Gorrepati
+# 👋 Hi
 
-![Header Image]()
+![Header Image](./header_profile.png)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/praveen-kumar-3871482a5/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=google-chrome)](https://praveen-kumar.vercel.app/)
 [![GitHub](https://img.shields.io/github/followers/Praveen-077?label=Follow&style=social)](https://github.com/Praveen-077)
@@ -9,7 +10,6 @@
 
 ## 🌟 About Me
 
-<img align="right" src="https://praveen-kumar.vercel.app/static/media/profile-pic.abc123.png" alt="Profile Image" width="300" />
 
 I am an aspiring computer scientist passionate about Artificial Intelligence, Machine Learning, and Software Development. I am currently pursuing my Bachelor of Technology at IIIT Sri City. My mission is to leverage technology to solve real-world problems and contribute to cutting-edge innovation.
 
@@ -56,12 +56,12 @@ I am an aspiring computer scientist passionate about Artificial Intelligence, Ma
 ## 🔥 Projects
 
 ### Road Quality Index Prediction
-![Project Thumbnail](https://praveen-kumar.vercel.app/static/media/road-quality-project.abc123.png)
+![Project Thumbnail](./RTQI.png)
 - **Technologies**: React Native, TensorFlow, HERE API
 - Achieved 95% accuracy in RTQI predictions and developed a mobile app for route suggestions.
 
 ### Social Media Platform (MERN Stack)
-![Project Thumbnail](https://praveen-kumar.vercel.app/static/media/social-media-project.abc123.png)
+![Project Thumbnail](./Social-media.png)
 - Developed a secure, scalable platform with JWT authentication.
 - Optimized MongoDB queries and ensured cross-browser compatibility.
 
@@ -85,6 +85,4 @@ I am an aspiring computer scientist passionate about Artificial Intelligence, Ma
 ## 📫 Connect With Me
 
 - 🌐 **Portfolio**: [praveen-kumar.vercel.app](https://praveen-kumar.vercel.app/)
-- 💼 **LinkedIn**: [Praveen Kumar](https://www.linkedin.com/in/praveen-kumar-3871482a5/)
 - 📧 **Email**: [praveenkumarg079@gmail.com](mailto:praveenkumarg079@gmail.com)
-- 🐙 **GitHub**: [Praveen-077](https://github.com/Praveen-077)
