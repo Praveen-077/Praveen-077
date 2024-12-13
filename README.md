@@ -11,7 +11,7 @@
 ## 🌟 About Me
 
 
-I am an aspiring computer scientist passionate about Artificial Intelligence, Machine Learning, and Software Development. I am currently pursuing my Bachelor of Technology at IIIT Sri City. My mission is to leverage technology to solve real-world problems and contribute to cutting-edge innovation.
+I specialize in full-stack development with MERN stack, along with expertise in machine learning and deep learning. My projects exemplify innovation and problem-solving, earning recognition at prestigious IEEE conferences and hackathons. I continually strive to expand my technical expertise and deliver meaningful solutions to real-world challenges.
 
 - 🎓 **Education**: B.Tech in Electronics and Communication Engineering (2021–2025)
 - 💡 **Interests**: AI/ML, Full-Stack Development, IoT Security
